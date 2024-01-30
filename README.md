@@ -2,7 +2,7 @@
 
 ## Wstęp
 
-Projekt oparty na analizie danych dotyczących jakości produktów odlewniczych. Celem projektu jest zastosowanie algorytmu Machine Learning do klasyfikacji produktów jako wadliwych lub bez wad, na podstawie obrazów produktów.
+Projekt oparty na analizie danych dotyczących jakości produktów odlewniczych. Celem projektu jest zastosowanie algorytmu Machine Learning do klasyfikacji produktów jako wadliwych lub bez wad, na podstawie obrazów produktów. Algorytm został opracowany w środowisku Google Colabolatory.
 
 ## Źródło danych
 [Dataset on Kaggle](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product) zestaw danych, który zawiera obrazy produktów odlewniczych podzielone na te wadliwe oraz dobre.
